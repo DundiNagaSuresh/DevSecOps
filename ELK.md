@@ -38,3 +38,11 @@
 4.Set up alerts based on specific conditions (e.g., error rate exceeding a threshold).
 
 5.Kibana provides a unified view of your application’s health, performance, and security.
+
+Prompts I used to search about ELK Stack:
+1. Explaing the Architecture of ELK with Key Points describing the working on each tool.
+2. Give me an Architecture Diagram of a Devops Architecuture where ELK is used for Monitoring.
+
+Youtube Videos I referred.
+1. DevOps Monitoring Tools for Begineer. https://youtu.be/uNsCPWYuGj4?si=aVLkUWnCpGFl7gQi ( Tech with Neha Garg )
+2. Understanding ELK Stack - https://youtu.be/EKF-PCY-slo?si=lcInNcqXwg1eD99Q ( Chayan Deokar )
